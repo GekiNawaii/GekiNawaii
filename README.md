@@ -1,4 +1,13 @@
 ## Hi there 👋
+Name? Nguyễn Đức Anh. Geki Nawaii is my alias, but i prever being called Geki or "Nam"
+
+Currently a Software Engineering student at Hanoi University
+Not good at anything, but know some Java, a bit C++ and a bit Python
+Having curious on any kind of tech, but knowledge just on the foundation level
+
+...maybe I'm not suit to be your co-worker, can we be friend?
+
+reach me through: https://www.facebook.com/GekiNawaii
 
 <!--
 **GekiNawaii/GekiNawaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
