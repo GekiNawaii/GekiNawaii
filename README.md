@@ -9,6 +9,8 @@ Having curious on any kind of tech, but knowledge just on the foundation level
 
 reach me through: https://www.facebook.com/GekiNawaii
 
+Hello
+
 <!--
 **GekiNawaii/GekiNawaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
