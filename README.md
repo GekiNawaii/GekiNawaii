@@ -1,9 +1,9 @@
 ## Hi there 👋
 Name? Nguyễn Đức Anh. Geki Nawaii is my alias, but I prefer being called as Geki or "Nam"
 
-Currently a Software Engineering student at Hanoi University.
-Not good at anything, but know some Java, a bit C++ and a bit Python.
-Having curious on any kind of tech, but knowledge just on the foundation level
+Currently, I am a software engineering student at Hanoi University. 
+Not good at anything, but I know some Java, a bit of C++ and a bit of Python. 
+Having curiosity about any kind of tech, but knowledge just on the foundation level.
 
 ...maybe I'm not suit to be your co-worker, can we be friend?
 
